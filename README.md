@@ -2,7 +2,7 @@
 The project allow users to select and save their delivery location, using Google Maps API to implement location search and geolocation. This project demonstrates a location/address flow using React for the frontend and Node.js for the backend. It integrates with the Google Maps API to allow users to select and save their delivery location. Users can enable location services, search manually for an address, and manage saved addresses.
 
 
-#Features
+# Features
 - Location permission request
 - Manual address search with Google Maps integration
 - Address form to save and categorize addresses
